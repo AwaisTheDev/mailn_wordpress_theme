@@ -1,3 +1,3 @@
 # mailn_wordpress_theme
 
-this is a ecommerce wordpress theme under development
+This is a ecommerce wordpress theme under development

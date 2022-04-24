@@ -1,2 +1,3 @@
 <?php
-echo "welcome";
+
+require_once ('lib/enqueue-assets.php');
